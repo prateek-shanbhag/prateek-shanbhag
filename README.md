@@ -7,11 +7,18 @@
 
 <p align="center">
   <a href="mailto:prateekshanbhag07@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/email.png" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/email.png" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/prateek-shanbhag-20a625385/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" height="40"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40" />
   </a>
+</p>
+
+<p align="center">
+  <a href="mailto:prateekshanbhag07@gmail.com">Email</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prateek-shanbhag-20a625385/">LinkedIn</a>
 </p>
 
 ---
