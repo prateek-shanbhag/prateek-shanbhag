@@ -42,4 +42,4 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ## 🐍Something Cool
-![snake gif](https://github.com/prateek-shanbhag/prateek-shanbhag/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/prateek-shanbhag/prateek-shanbhag-prateek-shanbhag/blob/output/github-contribution-grid-snake.svg)
