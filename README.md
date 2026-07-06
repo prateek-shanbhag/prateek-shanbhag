@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd+Developer;Open+Source+Contributor;Always+Learning&center=true&width=500&height=45">
 </p>
 <!-- Banner -->
 <h1 align="center">Hey 👋, I'm Prateek Shanbhag</h1>
@@ -46,7 +46,6 @@
 ### 🌐 Web Dev
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ## 🐍Something Cool
